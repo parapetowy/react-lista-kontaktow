@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
 .app {
   margin-top: 50px;
 }
